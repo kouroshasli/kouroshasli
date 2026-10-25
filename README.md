@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/kouroshasli/kouroshasli/main/assets/avatar.png" width="140" height="140" style="border-radius: 50%;" alt="Kourosh Asli Logo" />
+
 ```
   _  ______  _    _ _____   ____   _____ _    _            _____ _      _____ 
  | |/ / __ \| |  | |  __ \ / __ \ / ____| |  | |     /\   / ____| |    |_   _|
@@ -45,7 +47,7 @@
 | Project | Focus & Architecture | Status |
 | :--- | :--- | :---: |
 | 🌐 [**sub**](https://github.com/kouroshasli/sub) | Automated high-speed V2Ray/Xray subscription system with global CDN caching | `Production` |
-| 📋 [**contact-form**](https://github.com/kouroshasli/contact-form) | Responsive web interface featuring dynamic country search and bot mitigation | `Active` |
+| 🛡️ [**contact-form**](https://github.com/kouroshasli/contact-form) | Responsive web interface featuring dynamic country search and bot mitigation | `Active` |
 
 ---
 
