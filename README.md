@@ -10,7 +10,7 @@
 ```
 
 ### `Kourosh Asli` // کوروش اصلی ☘️
-**Creative Developer • 3D Web & Interactive Systems • Network Infrastructure**
+**Python Backend Developer • Network Security & Infrastructure • Cloudflare & Automation**
 
 <br>
 
@@ -32,42 +32,32 @@
 
 ---
 
-### ⚡ System Overview
+### ⚡ Core Technical Stack
 
-```typescript
-interface DeveloperProfile {
-  identity: "Kourosh Asli (کوروش اصلی)";
-  status: "Architecting interactive & resilient systems";
-  coreFocus: [
-    "3D Web Experiences & Creative Interfaces",
-    "High-Performance Python Architecture & Asynchronous Engines",
-    "Edge Compute, Network Protocols & Proxy Routing"
-  ];
-  officialHub: "https://asli.dpdns.org/";
-  telegram: "@kouroshasli";
-}
-```
+- **Backend & Scripting:** Python, Django, FastAPI, Asyncio, REST APIs
+- **Network & Security:** V2Ray / Xray Protocols, Reverse Proxies, Cloudflare Workers & Rules, Traffic Routing
+- **Infrastructure & Tools:** Linux, Git, Docker, Automation Scripts, Telegram Bot Engineering
 
 ---
 
-### 🚀 Featured Engineering & Open Source
+### 🚀 Projects & Systems
 
-| Production System | Focus & Architecture | Status |
+| Project | Focus & Architecture | Status |
 | :--- | :--- | :---: |
-| 🌐 [**sub**](https://github.com/kouroshasli/sub) | Automated, multi-location V2Ray/Xray subscription engine with Edge CDN distribution | `Production` |
-| 🛡️ [**contact-form**](https://github.com/kouroshasli/contact-form) | High-performance client-side form interface with dynamic ISO-lookup & bot mitigation | `Active` |
-| 💼 [**TK**](https://github.com/kouroshasli/TK) | Modular backend framework & interactive web portfolio powered by Django | `Active` |
+| 🌐 [**sub**](https://github.com/kouroshasli/sub) | Automated high-speed V2Ray/Xray subscription system with global CDN caching | `Production` |
+| 📋 [**contact-form**](https://github.com/kouroshasli/contact-form) | Responsive web interface featuring dynamic country search and bot mitigation | `Active` |
+| 💼 [**TK**](https://github.com/kouroshasli/TK) | Modular backend web architecture powered by Python & Django | `Active` |
 
 ---
 
-### 🛡️ Verified Presence
-> **Note:** Only the channels below represent the authentic identity of Kourosh Asli:
-> - **Web Hub:** [asli.dpdns.org](https://asli.dpdns.org/)
-> - **Telegram Channel:** [@kouroshasli](https://t.me/kouroshasli)
+### 🛡️ Verified Official Channels
+> All official projects, tools, and releases are distributed exclusively through:
+> - **Blog:** [asli.dpdns.org](https://asli.dpdns.org/)
+> - **Telegram:** [@kouroshasli](https://t.me/kouroshasli)
 > - **GitHub:** [github.com/kouroshasli](https://github.com/kouroshasli)
 
 ---
 
 <div align="center">
-  <sub>Engineered with precision • Tehran, Iran ☘️</sub>
+  <sub>Tehran, Iran ☘️</sub>
 </div>
