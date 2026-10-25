@@ -46,7 +46,6 @@
 | :--- | :--- | :---: |
 | 🌐 [**sub**](https://github.com/kouroshasli/sub) | Automated high-speed V2Ray/Xray subscription system with global CDN caching | `Production` |
 | 📋 [**contact-form**](https://github.com/kouroshasli/contact-form) | Responsive web interface featuring dynamic country search and bot mitigation | `Active` |
-| 💼 [**TK**](https://github.com/kouroshasli/TK) | Modular backend web architecture powered by Python & Django | `Active` |
 
 ---
 
